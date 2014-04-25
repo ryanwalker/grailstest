@@ -1,4 +1,0 @@
-grailstest
-==========
-
-grailstesting
